@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1603111073 source:d:\federico\documents\progra i\nealon.federico.progipp1a\ejerciciospracticosprogipp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
